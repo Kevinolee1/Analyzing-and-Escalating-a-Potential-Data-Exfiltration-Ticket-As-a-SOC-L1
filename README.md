@@ -9,4 +9,4 @@ Scroll down into you see the Post Reply box. In the response box, select origina
 ![Image alt](https://github.com/Kevinolee1/Analyzing-and-Escalating-a-Potential-Data-Exfiltration-Ticket-As-a-SOC-L1/blob/c30a629e74ecdd5318021677b0eb259ee119d72a/Screenshot%202026-08-20%20111515.png)
 Scroll down and click on post reply.
 ![Image alt](https://github.com/Kevinolee1/Analyzing-and-Escalating-a-Potential-Data-Exfiltration-Ticket-As-a-SOC-L1/blob/a287d6a922f66c9f6cd0de8295f1a8c28995167b/Screenshot%202026-08-16%20032820.png)
-Click on the internal not tab. In the text box, type in your investigation findings and next step. Next click on psot note.
+Click on the internal not tab. In the text box, type in your investigation findings and next action. Next click on psot note.
