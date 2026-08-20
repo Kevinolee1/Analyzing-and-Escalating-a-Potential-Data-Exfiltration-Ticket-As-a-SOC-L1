@@ -4,3 +4,5 @@ The ticket has been assigned to SOC L1 for initial triage, evidence collection, 
 Login your SOC L1 account.
 ![Image alt](https://github.com/Kevinolee1/Analyzing-and-Escalating-a-Potential-Data-Exfiltration-Ticket-As-a-SOC-L1/blob/713fb73ffea99a55ad89ed1a4f20e6cfbcdd126e/Screenshot%202026-08-20%20111240.png)
 Click on the Potential Data Exfiltration ticket
+![Image alt](https://github.com/Kevinolee1/Analyzing-and-Escalating-a-Potential-Data-Exfiltration-Ticket-As-a-SOC-L1/blob/02756d4fc021c3029053129a508feb9c2bdf3b8a/Screenshot%202026-08-20%20111453.png)
+Scroll down into you see the Post Reply box. In the response box, select original message. In the text box type in your analyst action, and disposition. 
